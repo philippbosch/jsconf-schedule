@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+        <title>JSConf.eu</title>
+        <link rel="stylesheet" type="text/css" media="screen" href="media/js/lib/jQTouch/jqtouch/jqtouch.css">
+        <link rel="stylesheet" type="text/css" media="screen" href="media/js/lib/jQTouch/themes/default/theme.css">
+        <link rel="stylesheet" type="text/css" media="screen" href="media/css/app.css">
+        <script src="media/js/lib/strftime.js"></script>
+        <script src="media/js/lib/jquery.js"></script>
+        <script src="media/js/lib/jQTouch/jqtouch/jqtouch.js"></script>
+        <script src="media/js/lib/jquery.mustache.js"></script>
+        <script src="schedule.js"></script>
+        <script src="media/js/app.js"></script>
+    </head>
+    
+    <body>
+        <div id="jqt">
+            <div id="day1">
+                <div id="day1-wrapper" class="s-scrollwrapper">
+                    <div id="day1-pane" class="s-scrollpane">
+                        <div class="header">
+                            <div class="titles">
+                                <h1>Schedule</h1>
+                                <h2>Day 1</h2>
+                            </div>
+                        </div>
+                        
+                        <h3>Theater</h3>
+                        <table class="schedule" cellspacing="0" id="day1-theatre">
+                            <tbody></tbody>
+                        </table>
+                        
+                        <h3>Music School</h3>
+                        <table class="schedule" cellspacing="0" id="day1-musicschool">
+                            <tbody></tbody>
+                        </table>
+                        
+                    </div>
+                </div>
+                
+                <ul class="rounded">
+                    <li><a href="#day2">Day 2</a></li>
+                </ul>
+            </div>
+            
+            <div id="day2">
+                <div id="day2-wrapper" class="s-scrollwrapper">
+                    <div id="day2-pane" class="s-scrollpane">
+                        <div class="header">
+                            <div class="titles">
+                                <h1>Schedule</h1>
+                                <h2>Day 2</h2>
+                            </div>
+                        </div>
+                        
+                        <h3>Theater</h3>
+                        <table class="schedule" cellspacing="0" id="day2-theatre">
+                            <tbody></tbody>
+                        </table>
+                        
+                        <h3>Music School</h3>
+                        <table class="schedule" cellspacing="0" id="day2-musicschool">
+                            <tbody></tbody>
+                        </table>
+                        
+                    </div>
+                </div>
+                <ul>
+                    <li><a href="#day1">Day 1</a></li>
+                </ul>
+            </div>
+            
+        </div>
+    </body>
+    
+</html>
