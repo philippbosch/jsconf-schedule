@@ -1,7 +1,7 @@
 var scheduleData = {
 	  "events": [
 	    {
-            "dtstart": "2010-09-25T09:15:00", 
+            "dtstart": "Sat, 25 Sep 2010 09:15:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:15",
             "title": "Opening Conference, Briefing Day 1", 
@@ -10,7 +10,7 @@ var scheduleData = {
             "url": "",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-25T09:30:00", 
+            "dtstart": "Sat, 25 Sep 2010 09:30:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "Using the Web to deliver the next wave of computing experiences", 
@@ -19,7 +19,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/using_the_web_to_deliver_the_n.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-25T10:15:00", 
+            "dtstart": "Sat, 25 Sep 2010 10:15:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "Your library sucks, and why you should use it", 
@@ -28,7 +28,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/your_library_sucks_and_why_you.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-25T10:15:00", 
+            "dtstart": "Sat, 25 Sep 2010 10:15:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:45",
             "title": "HTML5 APIs - The new Frontier", 
@@ -37,7 +37,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/html5_apis_-_the_new_frontier.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-25T11:15:00", 
+            "dtstart": "Sat, 25 Sep 2010 11:15:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "JavaScript + Web Standards II: The Quickening", 
@@ -46,7 +46,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/javascript_web_standards_ii_th.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-25T11:15:00", 
+            "dtstart": "Sat, 25 Sep 2010 11:15:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Creating Interactive Data Visualizations for the Web", 
@@ -55,7 +55,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/creating_interactive_data_visu.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-25T11:45:00", 
+            "dtstart": "Sat, 25 Sep 2010 11:45:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "Techniques and Tools for Taming Tangled Twisted Trains of Thought", 
@@ -64,7 +64,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/techniques_and_tools_for_tamin.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-25T11:45:00", 
+            "dtstart": "Sat, 25 Sep 2010 11:45:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "If it moves they will watch it", 
@@ -73,7 +73,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/if_it_moves_they_will_watch_it.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T12:15:00", 
+            "dtstart": "Sat, 25 Sep 2010 12:15:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "Server-side JavaScript the untold story", 
@@ -82,7 +82,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/server-side_javascript_the_unt.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T12:15:00", 
+            "dtstart": "Sat, 25 Sep 2010 12:15:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Aves Engine: High performance browser games", 
@@ -91,7 +91,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/aves_engine_high_performance_b.html",
             "pbfeventid" : 0},
              {
-            "dtstart": "2010-09-25T13:45:00", 
+            "dtstart": "Sat, 25 Sep 2010 13:45:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "CSS Lint for Massive Sites", 
@@ -100,7 +100,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/css_lint_for_massive_sites.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T13:45:00", 
+            "dtstart": "Sat, 25 Sep 2010 13:45:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "node.js + CouchDB == Crazy Delicious", 
@@ -109,7 +109,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/nodejs_couchdb_crazy_delicious.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T14:15:00", 
+            "dtstart": "Sat, 25 Sep 2010 14:15:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Dirty NoSQL", 
@@ -118,7 +118,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/dirty_nosql.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T14:30:00", 
+            "dtstart": "Sat, 25 Sep 2010 14:30:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "PhoneGap: Love the Web and Lose the SDK", 
@@ -127,7 +127,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/phonegap_love_the_web_and_lose.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T14:45:00", 
+            "dtstart": "Sat, 25 Sep 2010 14:45:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "node.js in production use: tempalias.com", 
@@ -136,7 +136,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/nodejs_in_production_use_tempa.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T15:30:00", 
+            "dtstart": "Sat, 25 Sep 2010 15:30:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:20",
             "title": "Lessons learnt pushing browsers to the limit", 
@@ -145,7 +145,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/lessons_learnt_pushing_browser.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T15:30:00", 
+            "dtstart": "Sat, 25 Sep 2010 15:30:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Better Life with shared ressources", 
@@ -154,7 +154,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/better_life_with_shared_resour.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T15:50:00", 
+            "dtstart": "Sat, 25 Sep 2010 15:50:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:20",
             "title": "Not your Mother's JavaScript!", 
@@ -163,7 +163,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/not_your_mothers_javascript.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T16:00:00", 
+            "dtstart": "Sat, 25 Sep 2010 16:00:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Rapid Prototyping for Multiple Platforms with JavaScript", 
@@ -172,7 +172,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/rapid_prototyping_for_multiple.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T16:10:00", 
+            "dtstart": "Sat, 25 Sep 2010 16:10:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:20",
             "title": "Using canvas to develop classic 2D games", 
@@ -181,7 +181,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/using_to_develop_classic_2d_ga.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T16:30:00", 
+            "dtstart": "Sat, 25 Sep 2010 16:30:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "The jQuery Divide", 
@@ -190,7 +190,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/the_jquery_divide_by_rebecca_m.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T16:30:00", 
+            "dtstart": "Sat, 25 Sep 2010 16:30:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Kick ass code editing and end-to-end JavaScript debugging", 
@@ -199,7 +199,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/kick_ass_code_editing_and_end.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T17:15:00", 
+            "dtstart": "Sat, 25 Sep 2010 17:15:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "Chakra: Building a new JavaScript Engine for Internet Explorer 9", 
@@ -208,7 +208,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/chakra_building_a_new_javascri.html",
             "pbfeventid" : 0},
             {
-            "dtstart": "2010-09-25T18:00:00", 
+            "dtstart": "Sat, 25 Sep 2010 18:00:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "Proxy Objects", 
@@ -217,7 +217,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/be_proxy_objects.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-25T18:45:00", 
+            "dtstart": "Sat, 25 Sep 2010 18:45:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:15",
             "title": "Closing Day 1", 
@@ -226,7 +226,7 @@ var scheduleData = {
             "url": "",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T09:45:00", 
+            "dtstart": "Sun, 26 Sep 2010 09:45:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:15",
             "title": "Opening Day 2", 
@@ -235,7 +235,7 @@ var scheduleData = {
             "url": "",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T10:00:00", 
+            "dtstart": "Sun, 26 Sep 2010 10:00:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "01:00",
             "title": "Loopage", 
@@ -244,7 +244,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/loopage_by_douglas_crockford.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T11:00:00", 
+            "dtstart": "Sun, 26 Sep 2010 11:00:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "The hitchhiker's guide to client side persistent data storage", 
@@ -253,7 +253,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/the_hitchhikers_guide_to_clien.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T11:00:00", 
+            "dtstart": "Sun, 26 Sep 2010 11:00:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "The State of HTML5: Inaugural Address", 
@@ -262,7 +262,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/the_state_of_html5_inaugural_address_by_paul_irish.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T11:45:00", 
+            "dtstart": "Sun, 26 Sep 2010 11:45:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "Techniques for a single stack world", 
@@ -271,7 +271,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/techniques_for_a_single_stack.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T11:45:00", 
+            "dtstart": "Sun, 26 Sep 2010 11:45:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Interface Styling for WebKit Mobile", 
@@ -280,7 +280,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/interface_styling_scripting_fo.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T12:15:00", 
+            "dtstart": "Sun, 26 Sep 2010 12:15:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "Getting functional with (fab)", 
@@ -289,7 +289,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/getting_functional_with_fab.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T12:15:00", 
+            "dtstart": "Sun, 26 Sep 2010 12:15:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Introducing Unify - A Framework for Cross Platform Applications", 
@@ -298,7 +298,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/introducing_unify_-_a_framewor.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T12:45:00", 
+            "dtstart": "Sun, 26 Sep 2010 12:45:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "Don't write spaghetti code in server side JavaScript", 
@@ -307,7 +307,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/dont_write_spaghetti_code_in_s.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T12:45:00", 
+            "dtstart": "Sun, 26 Sep 2010 12:45:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Socket.IO: Web Sockets for Everyone", 
@@ -316,7 +316,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/socketio_websockets_for_everyo.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T14:15:00", 
+            "dtstart": "Sun, 26 Sep 2010 14:15:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "Bespin: The JavaScript Programmer's Editor", 
@@ -325,7 +325,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/bespin_the_javascript_programm.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T14:15:00", 
+            "dtstart": "Sun, 26 Sep 2010 14:15:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Pirating the Sematic Web with JavaScript", 
@@ -334,7 +334,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/pirating_the_semantic_web_with.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T14:45:00", 
+            "dtstart": "Sun, 26 Sep 2010 14:45:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "The Art of deep linking and AJAX crawling", 
@@ -343,7 +343,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/the_art_of_deep_linking_and_aj.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T15:00:00", 
+            "dtstart": "Sun, 26 Sep 2010 15:00:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "Robotic JavaScript", 
@@ -352,7 +352,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/livingroombindmotion_function.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T15:15:00", 
+            "dtstart": "Sun, 26 Sep 2010 15:15:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "CommonJS, I Promise", 
@@ -361,7 +361,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/commonjs_i_promise_by_kris_kow.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T16:00:00", 
+            "dtstart": "Sun, 26 Sep 2010 16:00:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "Browser Extensions for Web Hackers", 
@@ -370,7 +370,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/browser_extensions_for_web_hac.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T16:00:00", 
+            "dtstart": "Sun, 26 Sep 2010 16:00:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "The Front-end Takeover", 
@@ -379,7 +379,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/oh_no_not_again.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T16:30:00", 
+            "dtstart": "Sun, 26 Sep 2010 16:30:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:30",
             "title": "Not your unit test", 
@@ -388,7 +388,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/not_your_unit_test_by_alexande.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T16:30:00", 
+            "dtstart": "Sun, 26 Sep 2010 16:30:00 GMT+0100", 
             "location": "Music School",
 	    "duration" : "00:30",
             "title": "Srsly R1pp3d J@vaScript", 
@@ -397,7 +397,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/srsly_r1pp3d_jvascript_by_john.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T17:15:00", 
+            "dtstart": "Sun, 26 Sep 2010 17:15:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "Performance Patterns", 
@@ -406,7 +406,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/speaker/performance_patterns_by_stoyan.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T18:00:00", 
+            "dtstart": "Sun, 26 Sep 2010 18:00:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:45",
             "title": "Community.js", 
@@ -415,7 +415,7 @@ var scheduleData = {
             "url": "http://jsconf.eu/2010/communityjs_by_chris_williams.html",
             "pbfeventid" : 0},
 	    {
-            "dtstart": "2010-09-26T18:45:00", 
+            "dtstart": "Sun, 26 Sep 2010 18:45:00 GMT+0100", 
             "location": "Theatre",
 	    "duration" : "00:15",
             "title": "Closing Conference, Instructions for Party", 
